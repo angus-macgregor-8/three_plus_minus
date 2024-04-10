@@ -10,7 +10,7 @@ def menu():
         else:
             break
 
-def coding(option, encoded): #made a comment
+def coding(option, encoded): #removed a comment
     if option == 1:
         password = input("Please enter your password to encode: ")
         encoded = ""
